@@ -1,5 +1,5 @@
 salam 
-in bazi sang kaghaz ghachi hast ke ba tk gerafiki shode 
+in bazi sang kaghaz ghachi hast ke ba tk gerafiki shode va ba python zade shode
 هر کدوم از دکمه ها با توجه به اسمی که روش نوشته شده یه حرکت دست محسوب میشود و بعد در زیر ان برد یا باخت را در اون حرکت نشان میدهد که ایا شما برده اید یا کاپیوتر بعد از خارج شدن از بازی یک تکست ساخته میشود 
 و راندمان و میزان برد یا باخت شما و حتی مساوی بودنتان را ثبت میکند 
 امیدوارم که لدت برده باشید
